@@ -1,0 +1,16 @@
+.container {
+  display: grid;
+  grid-template-columns: 250px auto 100px;
+  grid-template-rows: 320px 100px 80px;
+  border: 1px solid black;
+}
+
+.Item1 {
+  background-color: red;
+}
+.Item2 {
+  background-color: green;
+}
+.Item3 {
+  background-color: blue;
+}
